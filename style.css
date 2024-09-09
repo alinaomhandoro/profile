@@ -1,0 +1,74 @@
+body {
+  display: flex;
+  background: radial-gradient(circle at 7.5% 24%, rgb(237, 161, 193) 0%, rgb(250, 178, 172) 25.5%, rgb(190, 228, 210) 62.3%, rgb(215, 248, 247) 93.8%);
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+  font-size: 38px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+#background-img {
+  background-image: url(./images/59735202_10220040785397784_2880148259165175808_n.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 300px;
+}
+
+div {
+  text-align: center;
+  background-color: whitesmoke;
+  padding: 50px;
+  width: 50%;
+  height: 30%;
+  margin: 25px auto;
+  border-radius: 5px;
+  border: 10px solid #EAEAEA;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+  align-self: center;
+}
+
+.card {
+  background: radial-gradient(592px at 48.2% 50%, rgba(255, 255, 249, 0.6) 0%, rgb(160, 199, 254) 74.6%);
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+  background: linear-gradient(106.5deg, rgba(255, 215, 185, 0.91) 23%, rgba(223, 159, 247, 0.8) 93%);
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .container {
+    width: 700px;
+  }
+}
+
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .container {
+    width: 500px;
+  }
+}
+
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .container {
+    width: 300px;
+  }
+}
