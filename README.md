@@ -11,3 +11,16 @@
 <h1>Hi, I'm Alina</h1>
 
 </div>
+
+### 👩‍💻About Me:
+Software Engineer developing her skills 💪
+
+<p>🏡I live in Manchester, UK</p>
+<p>🗺️I love to travel</p>
+<p>🌱Currently diving deeper into Ruby, JavaScript and AWS ☁️</p>
+
+### 🧰 Tech Stack:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,js,postgres,html,css,scss">
+</div>
