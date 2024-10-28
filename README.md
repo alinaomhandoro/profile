@@ -8,19 +8,24 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=alinaomhandoro&style=flat-square)">
 
-<h1>Hi, I'm Alina</h1>
+<h1>Hi, I'm Alina!</h1>
 
 </div>
 
 ### 👩‍💻About Me:
 Software Engineer developing her skills 💪
 
-<p>🏡I live in Manchester, UK</p>
-<p>🗺️I love to travel</p>
+<p>🏡Live in Manchester, UK</p>
+<p>🗺️Love to travel</p>
 <p>🌱Currently diving deeper into Ruby, JavaScript and AWS ☁️</p>
 
 ### 🧰 Tech Stack:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,js,postgres,html,css,scss">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,js,postgres,html,css,scss,vscode">
+</div>
+
+### 🔥My Stats:
+<div align="center">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinaomhandoro&layout=compact&theme=vision-friendly-dark&langs_count=8&card_width=320">
 </div>
